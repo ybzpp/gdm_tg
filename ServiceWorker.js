@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GDM-0.1.0";
 const contentToCache = [
-    "Build/gdm.loader.js",
-    "Build/gdm.framework.js.unityweb",
-    "Build/gdm.data.unityweb",
-    "Build/gdm.wasm.unityweb",
+    "Build/gdm_v1.loader.js",
+    "Build/gdm_v1.framework.js.unityweb",
+    "Build/gdm_v1.data.unityweb",
+    "Build/gdm_v1.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
