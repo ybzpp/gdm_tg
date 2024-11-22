@@ -1,2 +1,2 @@
 # gdm_tg
-tg game bot
+tg game bot https://ybzpp.github.io/gdm_tg/
